@@ -28,9 +28,11 @@ twitter_username: rrameshbtech
 github_username: rrameshbtech
 domain: rrameshbtech.github.io
 github: [metadata]
-
+google_analytics:
+show_downloads: false
+author: ramesh ramalingam
 # Build settings
-theme: jekyll-theme-slate
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
