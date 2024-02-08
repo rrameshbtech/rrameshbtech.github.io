@@ -1,4 +1,19 @@
 ---
 ---
-
 @import "{{ site.theme }}";
+
+footer {
+  padding-top: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+header {
+  background-color: #121212;
+}
+
+header div{
+  display: flex;
+  justify-content: space-between; 
+  align-items: center;
+}

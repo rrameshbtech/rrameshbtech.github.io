@@ -24,17 +24,22 @@ description: >- # this means to ignore newlines until "baseurl:"
   Experiences, Thoughts & <del>Re</del>views
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rrameshbtech.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+show_downloads: false
+
+author: ramesh ramalingam
+linkedin_profile: https://www.linkedin.com/in/ramesh-ramalingam-aa3458258
 twitter_username: rrameshbtech
 github_username: rrameshbtech
 domain: rrameshbtech.github.io
 github: [metadata]
 google_analytics:
-show_downloads: false
-author: ramesh ramalingam
+copyright_text: Ramesh Ramalingam
+
 # Build settings
 theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
+  - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default.
