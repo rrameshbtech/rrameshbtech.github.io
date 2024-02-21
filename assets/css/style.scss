@@ -6,6 +6,13 @@ footer {
   padding-top: 10px;
   display: flex;
   justify-content: space-between;
+  font-size: smaller;
+  
+  .links {
+    display: flex;
+    align-self: center;
+    gap: 4px;
+  }
 }
 
 header {
