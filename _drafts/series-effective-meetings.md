@@ -8,3 +8,13 @@ published: true
 excerpt_separator: <!--more-->
 ---
 Hai there!
+How it is viewed -> Meetings are evil
+Is it really?
+One of the most misused process is meeting.
+Just I can ask people to join meetings, I schedule one
+
+Meeting are now like a hammer in carpender's hand
+
+Duration
+- Keep it short
+- Max 30 mins meeting. Nope it should be 25 mins for giving breathing space for people between meetings.
