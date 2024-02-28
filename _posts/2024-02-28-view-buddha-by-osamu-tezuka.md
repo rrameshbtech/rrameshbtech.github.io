@@ -46,3 +46,11 @@ I bought the box set, so I got an amazing box along with books that are made of 
 It is an extraordinary work from the master of manga. A wonderful, well-woven tale, spiced with interesting characters, discusses the philosophy of life and its meaning, supported by great visuals. What more do you expect? Trust me. The book will never disappoint you.
 
 Why waiting? Buckle up. Tezuka is ready to take you on the ride of your lifetime.
+
+## Links
+
+[Osamu Tezuka's website - Buddha](https://tezukaosamu.net/en/manga/434.html)
+
+[Amazon Link](https://www.amazon.in/gp/product/0007942486/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+
+[Goodreads](https://www.goodreads.com/book/show/24867695-buddha)
