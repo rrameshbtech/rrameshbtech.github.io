@@ -18,7 +18,7 @@ layout: default
 <ul>
   {% for post in site.posts limit:5 %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> at <small>{{ page.date | date: "%-d %B %Y" }}</small>
+      <a href="{{ post.url }}">{{ post.title }}</a> at <small>{{ post.date | date: "%-d %B %Y" }}</small>
     </li>
   {% endfor %}
 </ul>
