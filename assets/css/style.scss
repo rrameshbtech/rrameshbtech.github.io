@@ -24,3 +24,21 @@ header div{
   justify-content: space-between; 
   align-items: center;
 }
+
+.excerpt {
+  border-top-left-radius: 37px 140px;
+  border-top-right-radius: 23px 130px;
+  border-bottom-left-radius: 110px 19px;
+  border-bottom-right-radius: 120px 24px;
+
+  display: block;
+  position: relative;
+  border: solid 3px #444;
+  padding: 40px 60px;
+  max-width: 800px;
+  margin: 50px auto 50px;
+  line-height: 28px;
+  transform: rotate(-1deg);
+  box-shadow: 3px 15px 8px -10px rgba(0, 0, 0, 0.3);
+  transition: all 0.13s ease-in;
+}
