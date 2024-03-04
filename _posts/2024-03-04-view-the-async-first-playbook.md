@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 ---
 ![The Async-First Playbook photo with plant in outdoor](/assets/images/async-first-cover-image.jpg "The Async-First Playbook photo with plant in outdoor")
 
-> Tl;dr: If you don’t have patience for lengthy prose, jump to the [summary](#summary) for a quick view.
+> TL;DR: If you don’t have patience for lengthy prose, jump to the [summary]({{page.url}}#summary) for a quick view.
 
 Hello friends!
 
