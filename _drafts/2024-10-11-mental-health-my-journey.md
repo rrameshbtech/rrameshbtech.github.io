@@ -7,6 +7,7 @@ tags: mental health experience
 published: true
 excerpt_separator: <!--more-->
 ---
+<img src="/assets/images/mental-health-enter-new-world.webp" title= "A person entering into a beautiful world" width="500" height="500">
 
 The posts I came across about World Mental Health Day are the catalyst for me to write this one. Even after all these medical and technological advancements, metal health lacks it's place in discussion forums. Still most of the people feels uncomfortable to share with others. It might be because the fear of come it will be received. Based on my observations, mostly when somebody share about their struggles with mental health issues, either it perceived as taboo to talk outside or made fun on it. This aggrrevates the problem and makes it more intense. Nowadays a lot of initiatives taken at various levels to create a safer & helpful environment for people to share their mental health issues and ask for help.
 
@@ -55,10 +56,19 @@ Be it success or failure, let's celebrate for our learnings. It appriciates your
 Being in country like India with strong treditional beliefs and treatment gap of more than 80 per cent, we should have basic awarness about menthal health especially someone with such condition approches your for help. Based on my experience and learning as a care giver for a parent more than a decade, I gave my top 3 learnings below.
 
 ### Just listen
+An unjudgmental and uninterruptive listening is highly a effective way to convey the person that you care. Most of the times, they expect somebody to hear what they go through and show compassion, nothing more.
+
+During the initial days, my discussions with my mom were a disaster. I was clueless and blaming my mom why don't she act rationally. But I solowly understood that she never wanted the solution but somebody to listen and understand what she is going through. Once I understood, things changed quickly and it consoled both my mom and me.
 
 ### It's okay
+This helped me a lot to comfort the person who were expressing what they go through. Most of the times they think, their condition or suffering is their fault. This intense their worries and puts them into an cyclic blame game. This sentence helped me show my empaty and make them realise that they are not alone.
 
 ### Don't blame yourself
+As an amateur, we should be aware of our limits to help the person who is in need. Especially when the person is our closer one, we are emotionally bound and desperate to help them. When we are unable to help them, we start blaming ourself. This will sometimes lead to bad mental health. So always be aware of what we could help and guide them to get professional help.
+
+You are unqie. Appriciate and celebrate everything you do. There is no failure. Either it is success or small success, because there something to learn in every outcome. You do not wait to be happy until the life is hard anymore. Start celebrating yourself now on.
 
 ## References
-https://www.thelancet.com/journals/lansea/article/PIIS2772-3682(23)00160-9/fulltext
+[Lancet article about mental health](https://www.thelancet.com/journals/lansea/article/PIIS2772-3682(23)00160-9/fulltext)
+[S. Ramakrishnan's varalaRrin velicham - Tamil](https://www.youtube.com/watch?v=6uh0ez-zrzg)
+[NightBirde in AGT](https://www.youtube.com/watch?v=CZJvBfoHDk0)
