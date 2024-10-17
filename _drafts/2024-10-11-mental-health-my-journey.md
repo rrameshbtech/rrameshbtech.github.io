@@ -7,61 +7,62 @@ tags: mental health experience
 published: true
 excerpt_separator: <!--more-->
 ---
-<img src="/assets/images/mental-health-enter-new-world.webp" title= "A person entering into a beautiful world" width="500" height="500">
+<img src="/assets/images/mental-health-enter-new-world.jpg" title= "A person entering into a beautiful world">
 
-The posts I came across about World Mental Health Day are the catalyst for me to write this one. Even after all these medical and technological advancements, metal health lacks it's place in discussion forums. Still most of the people feels uncomfortable to share with others. It might be because the fear of come it will be received. Based on my observations, mostly when somebody share about their struggles with mental health issues, either it perceived as taboo to talk outside or made fun on it. This aggrrevates the problem and makes it more intense. Nowadays a lot of initiatives taken at various levels to create a safer & helpful environment for people to share their mental health issues and ask for help.
+Like most people, I thought mental health issues are a fancy thing and seen only in the news or movies. But it was shattered when my mom was diagnosed with mental health issues ten years before. My journey with mental health started from then on. In this, I played both carer and the needy myself. This journey burst a lot of my myths and gave me valuable learnings. I shared them in short below.
 
-Here is my journey with mental health issues and my learnings.
 <!--more-->
 
 ## Realisation
-As a common Indian family man, I was navigating between personal and professional life chores everyday. There were no time left for munching the memories and analyse what I can do better. There were some issues in my project and I scheduled a call with one of my manager to discuss about it. During the conversation, he suddenly asked, "Are you okay? Are your feeling burnt out?". I don't know what made him ask this question. But this made think what I am going through. In a faraction of second, my mind rewinded the recent past and I spondaniously replied "Yes. I am.". That moment did not only changed our conversation but also my life. We breifly discussed about the issues and he suggested for counselling.
+While caring for my mom and helping with her issues, I was busy between office and house chores. I thought I was leading a normal life. But during a one-to-one meeting with one of the managers, he suddenly asked, Are you okay? Are you feeling burnt out? That question! That question changed everything. I could see a new me, who was hidden by daily busy life, who was suffering and dwelling on mental health issues.
 
-This conversation stayed in my head and made my ponder what I was going through. After some pondering I realised how deeply trapped I was and at the same time I taken aback how I missed to recognise inspite of my recent years I spent taking care of my mother who was going through mental health issues and regular visits to psychologists and counsellers. Some of the potential reasons for oversight of my state.
+I was unable to accept how I missed recognizing my state despite being a carer and often visiting professionals for my mom. In retrospect, I found some of the reasons for oversight.
 
-* I have never given a quality time to retrospect myself.
-* Whenever I felt it hard, I thought it is normal and everyone going through the same.
-* Even I wanted to talk about it earlier, I did not know to whom to talk to.
+* I never spent quality time in retrospecting myself.
+* Whenever I felt it hard, I assumed that it was normal and everyone goes through this.
+* Even when I wanted to talk, I did not know how or whom to talk to.
 
 ## Resurrection
-Easy said than done. It was a long such a travel. I still coming out of it. It is a never ending process. We have to keep retrospect and take necessary antitodes to get ourself in better mental health. But they all started with a simple step. Talking to others especially your closer ones. After my realisation of what I was going through, I went to my family and explained what I was going through. This instance opened the gate of resurrection.
+It was such a long journey, but it started with simple steps. After I realized that I was going through mental health issues and needed help, I was clueless for a while about where and how to get help. Luckily, my company had an Employee Assist Program. I dialed and discussed my issues. They helped me with initial support and guided professional help.
 
-Then there was no looking back. Yeah. I want to say that. But sadly, it is not true. It is a continious process. We have be vigilent and interate analyse-recognise-action of what are we going through in regular intervals. 
+Initially, I was reluctant to discuss this with my family and was afraid of how they would react. But unlike I feared, they understood me and have been very supportive. This encouraged me a lot, and I continued discussing it, and they aligned themselves to help me come out.
 
-Now when I look back, thought it was not a smooth ride, it gives me a lot of confidence and faith that I could takcle and come out of any situations. Here are some of learnings which are helping me in this journey.
+Keeping a sound mind is not a one-time activity but a continuous process. Like driving on a highway, to keep us on track, we must continuously retrospect and align as required. I shared some of my learnings below that would be helpful in your journey
 
 ## When you go through hard times or you think so
 ### Talk to others
-Sharing heals. Yes. It's true. It relaxes and builds faith. I usually choose my closer ones to talk to. It can be anybody from your family, friends or even from your workplace. The common mistake is waiting for right person to talk. It is better to talk to somebody than waiting for the right person. Most of the time we won't know who will be the right person untill we start sharing. Some simple tricks I follow.
+Sharing heals. It relaxes and builds faith in us. I prefer anyone from my closer circle. It can be anybody you trust. They may be from your family, friends, or even someone from your workplace. The common mistake is delaying and blaming that we do not have anyone to understand us. But it is better to talk to somebody than wait for the right person. Most of the time, we won't know who will be the right person until we start sharing. Some simple tricks I follow.
 
 * Do not delay.
-* Talk to anyone in your circle who is available.
+* Talk to anyone whoever is available in your circle.
 * Explain what you go through. Do not interpret.
 
 ### Ask for help
-We shy of asking help. Most of the times, we do not ask for help because we think that we will be judged and assumed weeker. But in my experience, it did not change anything. In contrary, they were eager to find a way to help me.
+Usually, we are too shy to ask for help. We are afraid of being judged. But it didn't change anything in my experience. On the contrary, everyone was supportive, and they tried whatever was possible to help me.
 
-Another common mistake we do is underestimating our issues and overestimating our ability to solve. Until my manager asked whether I am okay, I assumed that my issues are normal and I can fix them myself. But once I started retrospecting, I realised I need help. It can be your family or professionals.
+Another common mistake is underestimating the issue and overestimating our ability to solve it. Until my manager asked whether I was okay, I assumed that I was normal. I thought my issues were usual ones that could be fixed easily. But when I retrospected, I realized that I was wrong and I needed help.
 
-It is good to seek professional help sooner than delaying by juding whether our issues are big enough or not. Nowadays most of the companies provide `Employee Assist Programs`. It is a good place to start with. If you do not have such option, we (in India) have Tele MANAS (An Indian government initiative). You can dial 14416 or 1-800 8914416 for help.
+It is better to seek professional help as soon as possible than wait for it to grow big enough to explode. Nowadays, most companies provide "Employee Assist programs." It is the best place to start. If you do not have that option, we (in India) have government-run programs like [Tele MANAS](https://telemanas.mohfw.gov.in/home) (an Indian government initiative). You can reach them by dialling [14416](tel:14416) or [1-800 8914416](tel:18008914416) for help.
 
 ### Be kind to yourself
-The greatest gift we have is ourself. As it got it with out any effort, sadly we fail to respect it. We being existing with sound mind and body is the very important thing than anything else in our life. Let's see how to appriciate the first one.
+The greatest gift we have is ourselves. But unfortunately, we realize this very late or never. We usually undervalue our gifts. Our mind and body sit on top of that list.
 
-Unfortunately mind is not visible, so we care it lesser. Like body, our mind needs good food to stay healthy. Self appriciation is the protean to your mind. But how and when to appriciate? We should appriciate for our every action. Usually we see success or failure as the possible outcomes to our action, but there is an another important one. It is the learning we got from the action.
+As our mind is not visible, we care about it less. Like the body, our mind also needs good food to stay healthy. Self-appreciation is one such protean-rich food. But we get confused about how and when to appreciate ourselves. I insist that you should appreciate your every action. Usually, we see success or failure as the possible outcomes of any action, but there is a third and more important outcome, which is the learning we get.
 
-Be it success or failure, let's celebrate for our learnings. It appriciates your effrots irrespective of the outcome. You does not need to compare yourself with others for it. Because, you are unique and you learned something which makes it success and a reason to celebrate yourself.
+Be it a success or failure, we should learn to celebrate our learning. It helps to appreciate every action, irrespective of the outcome. We don't need to compare ourselves with anybody else. Because each one of us is unique, and we learn something, which makes everything we do a success.
 
 ## When somebody asks for help
-Being in country like India with strong treditional beliefs and treatment gap of more than 80 per cent, we should have basic awarness about menthal health especially someone with such condition approches your for help. Based on my experience and learning as a care giver for a parent more than a decade, I gave my top 3 learnings below.
+Being in a country like India, which has strong traditional beliefs and a treatment gap of more than 80 percent, we should have basic awareness about mental health, especially when someone approaches for help. Based on my experience caring for my mom over a decade, I have shared some of my learnings below.
 
 ### Just listen
-An unjudgmental and uninterruptive listening is highly a effective way to convey the person that you care. Most of the times, they expect somebody to hear what they go through and show compassion, nothing more.
+Unjudgmental and uninterruptive listening is an effective way to convey to the person that you care. Most of the time, they need somebody to hear what they go through and show compassion, nothing more.
 
-During the initial days, my discussions with my mom were a disaster. I was clueless and blaming my mom why don't she act rationally. But I solowly understood that she never wanted the solution but somebody to listen and understand what she is going through. Once I understood, things changed quickly and it consoled both my mom and me.
+During the initial days, my discussions with my mom were a disaster. I was clueless and blaming my mom; why didn't she accept rational solutions? But I slowly understood that she never wanted the solution but somebody to listen and understand what she was going through. Once I understood this, things changed quickly between us. It helped both of us a lot.
 
 ### It's okay
-This helped me a lot to comfort the person who were expressing what they go through. Most of the times they think, their condition or suffering is their fault. This intense their worries and puts them into an cyclic blame game. This sentence helped me show my empaty and make them realise that they are not alone.
+Some words are magical. It is one of them. It heals and soothes their pain, especially when we hear it from the ones we respect and value most. If somebody chooses to share their suffering with you, it means that they respect and value you most.
+
+At some point in time, people start to think that even the common issues are unsolvable and happen only to them. This word helps them to relax and come out of the self-blame trap.
 
 ### Don't blame yourself
 As an amateur, we should be aware of our limits to help the person who is in need. Especially when the person is our closer one, we are emotionally bound and desperate to help them. When we are unable to help them, we start blaming ourself. This will sometimes lead to bad mental health. So always be aware of what we could help and guide them to get professional help.
@@ -70,5 +71,14 @@ You are unqie. Appriciate and celebrate everything you do. There is no failure. 
 
 ## References
 [Lancet article about mental health](https://www.thelancet.com/journals/lansea/article/PIIS2772-3682(23)00160-9/fulltext)
+
 [S. Ramakrishnan's varalaRrin velicham - Tamil](https://www.youtube.com/watch?v=6uh0ez-zrzg)
+
 [NightBirde in AGT](https://www.youtube.com/watch?v=CZJvBfoHDk0)
+
+## Books I felt helpful
+[Man’s Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) by Viktor E. Frankl
+
+[The Happiest Man on Earth](https://www.goodreads.com/book/show/53239311-the-happiest-man-on-earth?ref=nav_sb_ss_1_13) by Eddie Jaku
+
+[Emotional Intelligence: Why It Can Matter More Than IQ](https://www.goodreads.com/book/show/26329.Emotional_Intelligence?ref=nav_sb_noss_l_9) by Daniel Goleman
