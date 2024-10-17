@@ -7,7 +7,7 @@ tags: mental health experience
 published: true
 excerpt_separator: <!--more-->
 ---
-<img src="/assets/images/mental-health-enter-new-world.jpg" title= "A person entering into a beautiful world">
+<img src="/assets/images/mental-health-enter-new-world.jpg" title= "A happy, smiling women in a flower garden with balloons in background">
 
 For someone who grew up in a village, words like depression, disorder, or mental health were rare and only heard in movies or the news. I wasn't an exception until my mom was diagnosed with major depression disorder. Though this changed my perspective to some extent, I still believed that it was rare.
 
@@ -54,7 +54,7 @@ As our mind is invisible, we care the least. But like our body, mind also needs 
 Be it a success or failure, we should learn to celebrate our learning. It helps to appreciate every action, irrespective of the outcome. We don't need to compare ourselves with anybody else. Because each one of us is unique, and we learn something, which makes everything we do a success.
 
 ## When somebody asks for help
-Being in a country like India, which has strong traditional beliefs and a treatment gap of more than 80 percent [^1], we should have basic awareness about mental health, especially when someone approaches for help. Based on my experience caring for my mom over a decade, I have shared some of my learnings below.
+Being in a country like India, which has strong traditional beliefs and a treatment gap of more than 80 percent[^1], we should have basic awareness about mental health, especially when someone approaches for help. Based on my experience caring for my mom over a decade, I have shared some of my learnings below.
 
 ### Just listen
 Unjudgmental and uninterruptive listening is an effective way to convey to the person that you care. Most of the time, they need somebody to hear what they go through and show compassion, nothing more.
