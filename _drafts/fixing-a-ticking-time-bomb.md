@@ -9,7 +9,28 @@ excerpt_separator: <!--more-->
 ---
 Hai there!
 
+Some of you might thought the title would be a click bait. But trust me, when I thought about writing my recent experiences in a project, this is the first and only title struck my mind. Though it felt dramatic, I chose this as it clearly conveys state of my mind during that project. The discussion of good code vs bad code might have born the next minute the first computer programmer typed his first line of code. But it is still hot, relevant and worth discussing.
+
+There are tons of articles and books about refactoring and writing good code. Masters like Martin Fowler, Uncle Bob and a lot of people wrote and talked a lot on writing good code. So we are not going to discuss about them. In stead, lets see how to you and your team when you had to work badly written code aka a ticking time bomb.
+
+### Declare it's a time bomb and it's ticking
+It is very important especially when it was built by your peers.
+
+### Set the expectations correct including you
+You wear safety gears by setting right expectations with others. 
+
+Don't blame yourself or others for working in a bad code. Train yourself for the bad code and 
+
+### build the safety net
+
+### Cut one wire at a time
+
+### Try to snooze first
+
 ## Is your code base a ticking time bomb?
+
+### Lack of empaty
+
 Let's go ahead with asking a series of questions to understand how good our code is.
 ### Am I reading with out much cognitive load?
 
