@@ -39,3 +39,5 @@ gem "webrick", "~> 1.8"
 gem 'jemoji'
 
 gem 'jekyll-paginate'
+
+gem "csv"
