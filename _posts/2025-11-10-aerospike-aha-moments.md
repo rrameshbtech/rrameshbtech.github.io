@@ -11,7 +11,7 @@ excerpt_separator: <!--more-->
 ![Thing about Aerospike](/assets/images/aerospike-banner.jpg "A women software professional thinking about Aerospike")
 Hello friends!
 
-In my recent works I have been working with Aerospike database. It was a fun ride and had some interesting learnings. Though I was working NOSQL databases for quite some time, Aerospike was a new experience for me. It has some unique features and characteristics that set it apart from other databases. At some point, I thought if I knew what ever I learned through my battles with Aerospike, how much it would have changed the game for me. This post is the result of that thought process. If you are starting with Aerospike or planning to use it, here are some things I wish you knew which could help your ride smoother.
+In my recent works I have been working with Aerospike database. It was a fun ride with lots of interesting learnings. Though I was working with NOSQL databases for quite some time, Aerospike was a new experience for me. It has some unique features and characteristics that set it apart from other databases. At some point, I thought if I knew what ever I learned through my battles, how much it would have changed the game for me. This post is the result of that thought process. If you are starting with Aerospike or planning to use it, here are some things I wish you knew which could help your ride smoother.
 
 <!--more-->
 
