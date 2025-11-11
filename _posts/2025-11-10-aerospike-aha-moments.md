@@ -61,4 +61,4 @@ So the key takeaway here are
 ### All articles in this series
 
 1. [Which storage options to choose?](#)
-2. [A record which is too big](#)
+2. [A record which is too big](https://rrameshbtech.github.io/aerospike/learning/2025/11/10/aerospike-aha-moments-2.html)

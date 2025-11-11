@@ -13,6 +13,8 @@ In my experience with NOSQL DBs, size of the records were in a talk rarely. Most
 
 Though you can change this limit by configuring the `max-record-size` parameter in the Aerospike configuration file, increasing this limit will have cascading effects on the performance. For example, larger the record takes more disk I/O during replication. So it is good to stick to the default as much as possible.
 
+<!--more-->
+
 ### My experience
 
 When we are using NOSQL DBs as primary data store, there will be scenarios where we need to store larger records. In our case, we needed to store the indexes between multiple domain objects to support our querying needs. Lets take an example of Grocery store application which maintains multiple outlets. By the end of the day, we need to take the report of sales done in every store.
