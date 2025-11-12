@@ -62,4 +62,4 @@ So the key takeaway here are
 
 1. [Which storage options to choose?](#)
 2. [A record which is too big](https://rrameshbtech.github.io/aerospike/learning/2025/11/10/aerospike-aha-moments-2.html)
-3. [Is your key too hot?](#)
+3. [Is your key too hot?](https://rrameshbtech.github.io/aerospike/learning/2025/11/11/aerospike-aha-moments-3.html)

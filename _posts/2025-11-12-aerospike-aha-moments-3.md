@@ -11,6 +11,8 @@ excerpt_separator: <!--more-->
 ![Software professional trying to hold aerospike logo shaped hot key](/assets/images/aerospike-banner-hot-key.jpg "Software professional trying to hold aerospike logo shaped hot key")
 It is quite common that one record is being read/written by more than one client at the same time, especially when you have denormalized data models. In most of the DBs this impacts the latency & some time the request may even timeout. But in Aerospike, if there are too many concurrent operations on the same record, Aerospike will throw "Error Code 14: AS_ERR_KEY_BUSY" error. I presume that this is their fail fast mechanism to avoid performance degradation due to lock contentions.
 
+<!--more-->
+
 Aerospike maintains queue for the pending transactions. This helps them to maintain the sequential consistency for the record updates. But when the pending transactions cross a threshold limit, Aerospike will start throwing this error. You can configure the transaction pending queue limit by using `transaction-pending-limit` parameter in the Aerospike configuration file. The default value is 20.
 
 Read more about this limit [here](https://aerospike.com/docs/database/reference/config/#namespace__transaction-pending-limit)
