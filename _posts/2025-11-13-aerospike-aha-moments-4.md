@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Aerospike: My 'Aha!' moments - The predictable Primary Index"
-date: 2025-11-13 00:00:00 +0530
+date: 2025-11-13 00:00:01 +0530
 categories: aerospike learning
 tags: aerospike primary index RIPEMD-160 hash spring
 published: true
@@ -13,31 +13,31 @@ Aerospike builds primary index using distributed hashmap and red-black tree(spri
 
 <!--more-->
 
-I wrote short notes on some important concepts below.
+I wrote short notes on some of the important concepts below. It will help in understanding how it works.
 
-- **User Key** : A unique text key specified by the user for the record
-- **Digest** : A 20 byte hash created by RIPEMD-160 hash function using user key, set name, user key type
-- **Partition ID** : 12 deterministic bits of the Digest used to identify the partition
+- **User Key** : A unique text key specified by the user for the record.
+- **Digest** : A 20 byte hash created by RIPEMD-160 hash function using user key, set name and the user key type.
+- **Partition ID** : 12 deterministic bits of the Digest which is used to identify the partition.
 - **Partition Map** : Map which helps to identify which node has master or replica of a particular partition.
-- **Smart Client** : An aerospike client in consumer side which connects to server. It gets the partition to identify which node it needs to reach for fetching particular record.
-- **Sprigs** : A group of red-black trees available in each partition to build primary index. It helps identifying the record metadata using the digest.
-- **Primary Index Entry** : Along with digest, it also contains expiry time (void_time), generation, last updated time, storage pointer, replication state. It has fixed size of 64 bytes.
+- **Smart Client** : An aerospike client at the consumer which connects to server. It knows which node it should reach for fetching a specific record with the help of partition map.
+- **Sprigs** : A group of red-black trees available in each partition to build primary index. It helps identifying the record metadata using the digest. It helps to maintain the shortest traverse to get the location of a record.
+- **Primary Index Entry** : Along with digest, it also contains expiry time (void_time), generation, last updated time, storage pointer, replication state. It has the fixed size of 64 bytes.
 
-Based on my understanding, I explained the flow of how a client fetches a record.
+Based on my understanding, I explained the flow of how the smart client fetches a record.
 
 1. The client computes the digest from namespace, set, and user key.
 2. Partition ID is calculated from digest.
-3. The partition map tells the client which node holds the master (and replicas) for the partition.
-4. Request is routed directly to the correct node.
-5. Node looks up the digest in the correct partition’s red-black tree sprig.
-6. If present, the tree entry points directly to the storage device and record can be read or written in O(log n) time
+3. The partition map tells the client which node holds the master (and replicas) of the given partition.
+4. The request is routed directly to the master node.
+5. The node looks up the digest in the respective partition’s red-black tree sprig.
+6. If present, the tree entry points directly to the storage location through the pointer and record can be read with O(log n) time.
 
 I drew a diagram to depict how primary index works in Aerospike.
 ![Aerospike Primary Index](/assets/images/aerospike-things-you-may-need-to-know-primary-index.jpg "Flow of how aerospike uses primary index to fetch the respective record")
 
 ### My experience
 
-Primary index plays vital role in which storage method we should be choosing. For example, in our case, volumes of records and it's impact in size of primary index lead us to start using All Flash storage option. Because with huge volume of records, the space required to store primary index also increases. So using HMA will significantly increase the TOC. An ultra simple formula for calculating the size of primary index given below.
+Primary index plays vital role in choosing which storage method we should be using. For example, in our case, volumes of records and it's impact in size of primary index lead us to start using All Flash storage option. Because with huge volume of records, the space required to store primary index also increases which impacts our TCO. So choosing HMA seemed costlier. I have given an ultra simple formula for calculating the size of primary index given below.
 
 ```
 Primary Index Size = 64 bytes * Record Count * Replication factor
@@ -47,17 +47,17 @@ For more detailed planning, please check [capacity planning](https://aerospike.c
 
 #### Where is my key?
 
-One of shock in initial days was, when you are querying/batch fetch records from Aerospike, you will get your record user key in your response. Yes, it is Aerospike's default behavior that it does not store record user key along with the record. As we have seen above, it creates the digest which used to create your primary index. So you won't get it back it was not stored at all.
+One of the shock in initial days was, when you are querying/batch fetch records from Aerospike, you will not get your record user key in your response. Yes, it is Aerospike's default behavior that it does not store record user key along with the record. As we have seen above, it creates the digest which used to create your primary index. So you won't get the user key back as it was not stored at all.
 
-When you are fetching the record by your record user key (primary key), you do not need it as you already have it in your hand. But some other times you may prefer to get record user key along with your record. If yes, then you can update your client policy to ask Aerospike to store & retrieve the key. Remember that you have to send this flag for both write as well as read policy.
+When you are fetching the record by your record user key (primary key), you do not need it as you already have it in your hand. But in some other times you may prefer to get record user key along with your record. If yes, then you can update your client policy and ask Aerospike to store & retrieve the key. Remember that you have to send this flag for both write as well as read policies.
 
 ```java
 policy.sendKey = true;
 ```
 
-In some cases, we experienced inconsistency is storing & fetching keys. Though we are unable to find the exact cause. Below are the workarounds we tried.
+In some cases, we experienced inconsistency in storing & fetching the keys. We were unable to find the exact reason as there were one specific cause. But I would recommended to start with below one.
 
-- Set `sendKey=true` in your default policies of the client. Ensure that in every place you are using default policy or extending from default policy. Sometimes, developers replace the default policy by unknowingly overriding it by code like below. Anyway sendKey is used as guard against the rare collision in RIPE-MD160 hash.
+- Set `sendKey=true` in your default policies of the client. Ensure that in every place you are using default policy or extending from the default policy. Sometimes, developers replace the default policy unintentionally by overriding it with the code like below. "sendKey" is also used as guard against the rare collision in RIPE-MD160 hash.
 
 ```java
 client.operate(new WritePolicy(), operations);
