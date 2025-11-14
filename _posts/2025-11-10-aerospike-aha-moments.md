@@ -64,3 +64,4 @@ So the key takeaway here are
 2. [A record which is too big](https://rrameshbtech.github.io/aerospike/learning/2025/11/10/aerospike-aha-moments-2.html)
 3. [Is your key too hot?](https://rrameshbtech.github.io/aerospike/learning/2025/11/11/aerospike-aha-moments-3.html)
 4. [The predictable Primary Index](https://rrameshbtech.github.io/aerospike/learning/2025/11/12/aerospike-aha-moments-4.html)
+5. [Resurrection of the record](https://rrameshbtech.github.io/aerospike/learning/2025/11/13/aerospike-aha-moments-5.html)
