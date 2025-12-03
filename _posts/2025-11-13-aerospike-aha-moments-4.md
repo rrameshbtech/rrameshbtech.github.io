@@ -71,8 +71,9 @@ client.operate(new WritePolicy(), operations);
 
 ### All articles in this series
 
-1. [Which storage options to choose?](https://rrameshbtech.github.io/aerospike,/learning,/db/2025/11/09/aerospike-aha-moments.html)
+1. [Which storage option to choose?](https://rrameshbtech.github.io/aerospike,/learning,/db/2025/11/09/aerospike-aha-moments.html)
 2. [A record which is too big](https://rrameshbtech.github.io/aerospike/learning/2025/11/10/aerospike-aha-moments-2.html)
 3. [Is your key too hot?](https://rrameshbtech.github.io/aerospike/learning/2025/11/11/aerospike-aha-moments-3.html)
 4. [The predictable Primary Index](#)
 5. [Resurrection of the record](https://rrameshbtech.github.io/aerospike/learning/2025/11/13/aerospike-aha-moments-5.html)
+6. [A Summary](https://rrameshbtech.github.io/aerospike/learning/2025/12/03/aerospike-aha-moments-6.html)
