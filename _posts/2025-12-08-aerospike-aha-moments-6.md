@@ -27,10 +27,10 @@ One of our critical need is to replicate the data from legacy system at real tim
 2. Ability to store large volume of data
 3. Ability to keep lesser total cost of ownership & more
 
-As we have seen in the [first article](https://rrameshbtech.github.io/aerospike,/learning,/db/2025/11/09/aerospike-aha-moments.html), Aerospike provides 3 storage options. We had to choose the best fit for our use case. Neal Ford & Mark Richards quote in [this article](https://www.oreilly.com/live-events/software-architecture-superstream-software-architecture-trade-offs/0636920083581/) that **everything in software architecture is a trade-off**. Here are our trade-offs and rationale below.
+As we have seen in the [first article](/aerospike,/learning,/db/2025/11/09/aerospike-aha-moments.html), Aerospike provides 3 storage options. We had to choose the best fit for our use case. Neal Ford & Mark Richards quote in [this article](https://www.oreilly.com/live-events/software-architecture-superstream-software-architecture-trade-offs/0636920083581/) that **everything in software architecture is a trade-off**. Here are our trade-offs and rationale below.
 
 - **In Memory**: Yes, it is faster. But given the volume of data it will shoot up our TOC.
-- **HMA**: Faster, Yes. But it still costs us more because of the volume of data. In Aerospike, cost is not just decided by the total size of data but also by volume (number of records). Refer how [primary keys work here](https://rrameshbtech.github.io/aerospike/learning/2025/11/12/aerospike-aha-moments-4.html)
+- **HMA**: Faster, Yes. But it still costs us more because of the volume of data. In Aerospike, cost is not just decided by the total size of data but also by volume (number of records). Refer how [primary keys work here](/aerospike/learning/2025/11/12/aerospike-aha-moments-4.html)
 - <span style="background-color:PaleGreen;color:#666">**All Flash**: With some trade-offs in latency, we chose this storage option. This helps us to reduce the total cost of ownership and achieve faster writes with occasional reads (We will see why we read lesser in below sections).</span>
 
 After choosing the storage options, still there are other rotary knobs you can tune to get the perfect result you want. Based on my experience I have given some of them below.
@@ -167,9 +167,9 @@ With the above fine tunings we were able to get the results we wanted. But yes, 
 
 ## All articles in this series
 
-1. [Which storage option to choose?](https://rrameshbtech.github.io/aerospike,/learning,/db/2025/11/09/aerospike-aha-moments.html)
-2. [A record which is too big](https://rrameshbtech.github.io/aerospike/learning/2025/11/10/aerospike-aha-moments-2.html)
-3. [Is your key too hot?](https://rrameshbtech.github.io/aerospike/learning/2025/11/11/aerospike-aha-moments-3.html)
-4. [The predictable Primary Index](https://rrameshbtech.github.io/aerospike/learning/2025/11/12/aerospike-aha-moments-4.html)
-5. [Resurrection of the record](https://rrameshbtech.github.io/aerospike/learning/2025/11/13/aerospike-aha-moments-5.html)
+1. [Which storage option to choose?](/aerospike,/learning,/db/2025/11/09/aerospike-aha-moments.html)
+2. [A record which is too big](/aerospike/learning/2025/11/10/aerospike-aha-moments-2.html)
+3. [Is your key too hot?](/aerospike/learning/2025/11/11/aerospike-aha-moments-3.html)
+4. [The predictable Primary Index](/aerospike/learning/2025/11/12/aerospike-aha-moments-4.html)
+5. [Resurrection of the record](/aerospike/learning/2025/11/13/aerospike-aha-moments-5.html)
 6. [A Summary](#)
